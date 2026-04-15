@@ -11,4 +11,4 @@ Summary: The program first creates a random first row and then uses a shifting p
 
 Files:
 - SudokuGenerator.java
-- Yujing Sun - Project_Sudoku Puzzle Generator[50 points].pdf
+- DesignDocument.pdf
